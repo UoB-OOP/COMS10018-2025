@@ -13,6 +13,7 @@ and [third-party resources](guides/RESOURCES.md).
 * [Week 14](week14.md) - *22 Jan*
 * [Week 15](week15.md) - *29 Jan*
 * [Week 16](week16.md) - *05 Feb*
+* [Week 17](week17.md) - *12 Feb*
 ---
 
 
