@@ -5,8 +5,8 @@ Please follow the [written guide](guides/SETUP.md) carefully.
 We have a set of alternative *video* guides, watch these **only** if you got stuck with the written
 guide:
 
-* [Windows](https://web.microsoftstream.com/video/382a7600-3940-4415-a680-002de6960b99) 
-* [Ubuntu](https://web.microsoftstream.com/video/608b2c4c-1834-4429-9c86-bf19530c7f3a)
+* [Windows](https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/Install%20IntelliJ%20and%20Set%20up%20Java%2017%20on%20Windows-20230122_091041.mp4?csf=1&web=1&e=aRDPxN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+* [Ubuntu](https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/Install%20IntelliJ%20and%20Set%20up%20Java%2017%20on%20Ubuntu-20230122_091123.mp4?csf=1&web=1&e=soqRBD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ***
 

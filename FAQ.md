@@ -2,9 +2,9 @@
 
 ## General notes
 
-1. We **only support Java 11**. If you use Java 8/9/10, you may encounter unexpected issues and _we
-   cannot help you with them_. If you've previously installed Java 8/9/10, we recommend that you _
-   uninstall Java 8/9/10 and install **only** Java 11_.
+1. We **support Java 17**. If you use Java 8/9/10/11, you may encounter unexpected issues and _we
+   cannot help you with them_. If you've previously installed Java 8/9/10/11, we recommend that you _
+   uninstall Java 8/9/10/11 and install **only** Java 17_.
    Read [Uninstalling Java](guides/SETUP.md#uninstalling-other-java-versions) if you need a hint on
    where to start.
 2. For debugging, use `System.out.println(...)` liberally. Make sure to make it easily spottable,

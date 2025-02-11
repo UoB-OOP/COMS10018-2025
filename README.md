@@ -15,9 +15,15 @@ and [third-party resources](guides/RESOURCES.md).
 * [Week 16](week16.md) - *05 Feb*
 * [Week 17](week17.md) - *12 Feb*
 ---
+<!--
+**Summative assignment (100%)**:
 
+* Week 17.5 ~
+    * [The ScotlandYard project](summative/README.md)
+---
+-->
 
-For specific topics, visit:
+For specific topics, visit (some of these resources are a little dated, but still useful):
 
 * [Resources](guides/RESOURCES.md) - a summary of software collaboration services you can use for
   your project
