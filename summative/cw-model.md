@@ -32,18 +32,18 @@ complex.
   from [Ravenburger's website](https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf)
 * ### Download the Java version of the game
   * #### Linux   
-	<!--  - [Remote, Linux and x86_64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-remote-2024-linux-x86_64.jar)-->
-    - [Local, Linux and x86_64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-local-2024-linux-x86_64.jar)
-    <!--- [Remote, Linux and arm64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-remote-2024-linux-arm64.jar)-->
-    - [Local, Linux and arm64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-local-2024-linux-arm64.jar)
+	<!--  - [Remote, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-linux-x86_64.jar)-->
+    - [Local, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-linux-x86_64.jar)
+    <!--- [Remote, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-linux-arm64.jar)-->
+    - [Local, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-linux-arm64.jar)
   * #### Apple 
-    <!--- [Remote, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-remote-2024-fix-mac-arm64.jar)-->
-    - [Local, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-local-2024-fix-mac-arm64.jar)
-    <!--- [Remote, Mac (Intel) and x86_64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-remote-2024-mac-x86_64.jar)-->
-    - [Local, Mac (Intel) and x86_64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-local-2024-mac-x86_64.jar)
+    <!--- [Remote, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-fix-mac-arm64.jar)-->
+    - [Local, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-fix-mac-arm64.jar)
+    <!--- [Remote, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-mac-x86_64.jar)-->
+    - [Local, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-mac-x86_64.jar)
   * #### Windows
-    <!--- [Remote, Windows) and x86_64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-remote-2024-win-x86_64.jar)-->
-    - [Local, Windows) and x86_64](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/scotlandyard-local-2024-win-x86_64.jar)
+    <!--- [Remote, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-win-x86_64.jar)-->
+    - [Local, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-win-x86_64.jar)
 
 
 The executable is a JAR file, run it on your machine like so:
@@ -81,8 +81,8 @@ Maven, but feel free to read up about it [here](maven.md).
 
 **TODO:** Start by creating a repository with the skeleton code from this zip file in it:
 
-* [cw-model](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-model.zip)
-* [cw-model Apple Silicon fix](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-model_apple_silicon_fix.zip)
+* [cw-model](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/cw-model.zip)
+* [cw-model Apple Silicon fix](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/cw-model_apple_silicon_fix.zip)
 
 If you use Git, a `.gitignore` file is already present with all the correct files to ignore.
 
