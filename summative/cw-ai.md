@@ -21,8 +21,7 @@ manually.-->
 **TODO:** As in previous courseworks, create a private repository shared within your team with the
 code from this zip file in it:
 
-* [cw-ai](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai.zip)
-* [cw-ai Apple silicon fix](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai_apple_silicon_fix.zip)
+* [cw-ai](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai_2025.zip)
 
 If you use Git, a `.gitignore` file is already present with all the correct files to ignore.
 
