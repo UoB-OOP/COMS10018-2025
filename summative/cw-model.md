@@ -45,6 +45,21 @@ complex.
     <!--- [Remote, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-win-x86_64.jar)-->
     - [Local, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-win-x86_64.jar)
 
+***
+
+
+
+* ### 2025 fixes for Java version of the game (try these if the above does not work for you)
+  * #### Linux   
+
+    - [Local, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-linux-x86_64.jar)
+    - [Local, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-linux-arm64.jar)
+  * #### Apple 
+    
+    - [Local, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-fix-mac-arm64.jar)
+    - [Local, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-mac-x86_64.jar)
+  * #### Windows
+    - [Local, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-win-x86_64.jar)
 
 The executable is a JAR file, run it on your machine like so:
   ```shell
@@ -83,6 +98,11 @@ Maven, but feel free to read up about it [here](maven.md).
 
 * [cw-model](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/cw-model.zip)
 * [cw-model Apple Silicon fix](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/cw-model_apple_silicon_fix.zip)
+
+**2025 fixes (try this if the above does not work for you):** Start by creating a repository with the skeleton code from this zip file in it:
+
+* [cw-model (all platforms)](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/cw-model_2025.zip)
+
 
 If you use Git, a `.gitignore` file is already present with all the correct files to ignore.
 
