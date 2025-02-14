@@ -32,17 +32,17 @@ complex.
   from [Ravenburger's website](https://www.ravensburger.org/spielanleitungen/ecm/Spielanleitungen/26646%20anl%202050897_2.pdf)
 * ### Download the Java version of the game
   * #### Linux   
-	<!--  - [Remote, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-linux-x86_64.jar)-->
+	- [Remote, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-linux-x86_64.jar)
     - [Local, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-linux-x86_64.jar)
-    <!--- [Remote, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-linux-arm64.jar)-->
+    - [Remote, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-linux-arm64.jar)
     - [Local, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-linux-arm64.jar)
   * #### Apple 
-    <!--- [Remote, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-fix-mac-arm64.jar)-->
+    - [Remote, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-mac-arm64.jar)
     - [Local, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-fix-mac-arm64.jar)
-    <!--- [Remote, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-mac-x86_64.jar)-->
+    - [Remote, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-mac-x86_64.jar)
     - [Local, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-mac-x86_64.jar)
   * #### Windows
-    <!--- [Remote, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2024-win-x86_64.jar)-->
+    - [Remote, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-win-x86_64.jar)
     - [Local, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2024-win-x86_64.jar)
 
 ***
@@ -51,14 +51,17 @@ complex.
 
 * ### 2025 fixes for Java version of the game (try these if the above does not work for you)
   * #### Linux   
-
+    - [Remote, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-linux-x86_64.jar)
     - [Local, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-linux-x86_64.jar)
+    - [Remote, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-linux-arm64.jar)
     - [Local, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-linux-arm64.jar)
-  * #### Apple 
-    
+  * #### Apple
+    - [Remote, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-mac-arm64.jar)
     - [Local, Mac (M1,M2,M3) and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-fix-mac-arm64.jar)
+    - [Remote, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-mac-x86_64.jar)
     - [Local, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-mac-x86_64.jar)
   * #### Windows
+    - [Remote, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-remote-2025-win-x86_64.jar)
     - [Local, Windows) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/code/scotlandyard-local-2025-win-x86_64.jar)
 
 The executable is a JAR file, run it on your machine like so:
@@ -68,7 +71,9 @@ The executable is a JAR file, run it on your machine like so:
 This game is the online version with an offline mode in the menu (accessible via `Game | Local game`).
 
 For the offline mode, follow the instructions in [this video](https://uob-my.sharepoint.com/:v:/r/personal/sh1670_bristol_ac_uk/Documents/Stream%20Migrated%20Videos/Running%20the%20Scotland%20Yard%20binary%20(jar%20file)-20210307_100417.mp4?csf=1&web=1&e=fqOMMP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) where Sion plays against himself.
-The online mode, is **not** currently available. Credentials will be available later [here](#). <!--Search for your UoB username in the 3rd column and then note down your personal username (integer on in 1st column) and password (alphanumeric string in 2nd column). Do **not** use personal data for your team's name when connecting to the game server: make up something fun!-->
+For the online mode, use the credentials which are available [here](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10018_2024_TB-2/oo/pdfs/2025_SY_credentials.pdf). 
+Search for your UoB username in the 3rd column and then note down your personal username (integer on in 1st column) and password (alphanumeric string in 2nd column). 
+Do **not** use personal data for your team's name when connecting to the game server: make up something fun!
 
 * How do I know I am using an M1. M2 or M3 (Apple Silicon) Mac?
   * Click on the `Apple logo` on the menu bar and click on `About This Mac`. in the `Chip` section, if you see something that starts with `Apple`, you are using an Apple Silicon Mac; if it starts with `Intel`, you are using an Intel Mac.
