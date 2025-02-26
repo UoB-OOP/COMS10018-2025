@@ -21,7 +21,9 @@ manually.-->
 **TODO:** As in previous courseworks, create a private repository shared within your team with the
 code from this zip file in it:
 
-* [cw-ai](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai_2025.zip)
+* [cw-ai (can downcast version)](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai_can_downcast.zip)
+* [cw-ai (**cannot** downcast version)](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai_no_downcast.zip)
+* [cw-ai Apple silicon fix (DEPRECATED)](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS10018-2024-25-TB-2-A/Class%20Materials/COMS10018_2024_TB-2/content/oo/code/cw-ai_apple_silicon_fix.zip)
 
 If you use Git, a `.gitignore` file is already present with all the correct files to ignore.
 
@@ -101,7 +103,7 @@ etc. Let your imagination run wild!
 **TODO:** Implement extensions, do something impressive.
 
 
-<!--
+
 
 
 ## Competition
@@ -113,7 +115,8 @@ A week before competition day you will be supplied a with a client that can use 
 and connect to a competition server. You will have to manually migrate your AI to the client
 project. In most cases, simply copying your AI class to the correct package will work. More details
 will be posted on the unit website before the competition.
--->
+
+**Note that if you use downcasting, your AI will not be eligible for entry into the competition**
 
 ## <a name="guide"></a>Implementation Guide
 
@@ -158,3 +161,14 @@ The `uk.ac.bris.cs.scotlandyard.model.Ai#pickMove` method will be executed on a 
 managed by the runtime. Please explicitly synchronise access to non-thread safe objects yourself. If
 you are not sure what threading means, and you are not parallelising your solution, you can
 disregard this note.
+
+**Note on downcasting:**:
+
+The AI implementation can be greatly simplified by downcasting **Board** to a **GameState**. You would do something like this:
+
+```java
+        Board.GameState gameState = (Board.GameState) board;
+		var v = gameState.getAvailableMoves();
+		var s = v.size();
+```
+However if you wish to obtain extra credit and enter the AI competition you should find an alternative way of creating something *"GameStateish"* ... 
