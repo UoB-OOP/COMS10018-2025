@@ -29,6 +29,45 @@ and general principles of object-orientation and Java, and you will be able to s
 knowledge and the merits of your project. All team members should understand all code developed in
 detail.
 
+Vivas
+==========
+
+During your viva, **you must have your camera on and a working microphone**. Vivas will be around **20 minutes in duration** and will **take place on Teams**. You should have all your code ready to run. Remember, both team members may potentially receive different marks, so you’ll both need to answer questions in the viva.
+
+To achieve a pass, you will only require a basic understanding of Java and have an implementation which passes the majority of tests. **However, if you cannot explain basic functionality of your code, you may not receive a passing grade - even with the majority of tests passed**.
+
+Questions will be limited to content covered in the lectures (unless you know all of it!) and where possible will be themed around your implementation of the Scotland Yard model. For example, we might ask you to explain the following (going broadly from easier to harder):
+
+* classes and objects
+* attributes and methods
+* instantiation and constructors
+* access modifiers
+* static methods
+* immutables
+* references and null
+* generics
+* overloading vs overriding
+* getters, setters and encapsulation
+* inheritance
+* polymorphism and downcasting
+* exceptions
+* idea/code of observer
+* abstract classes
+* interfaces
+* super
+* dynamic dispatch
+* idea/code of visitor
+* MrX scoring function
+* inner classes and anonymous classes
+* initialisers ;;variadics
+* basic design pattern knowledge about at least one pattern
+* ...
+* (and everything else we covered!)
+* 
+You may also be asked about later lecture content, including explaining more esoteric design patterns.
+
+Remember, you *will* be asked to explain randomly selected sections of code implemented by your team.
+
 Submission
 ==========
 You should submit before the deadline (Friday 21st March at 13:00), [HERE](https://www.ole.bris.ac.uk/ultra/courses/_259157_1/outline/assessment/test/_9302868_1?courseId=_259157_1&gradeitemView=details):
